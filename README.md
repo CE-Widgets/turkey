@@ -1,48 +1,48 @@
-# Sleigh: Chimney Magic
+# Turkey Trot: Dinner Magic
 
 **Status:** 🟢 Production
-**Current version:** `2026.10.25-14`
+**Current version:** `2026.11.16-3`
 
-![Sleigh: Chimney Magic feature graphic showing Santa's sleigh over the illuminated Champagne Engineering winter mill](docs/feature-graphic.png)
+![Turkey Trot: Dinner Magic feature graphic showing a flying turkey carrying mashed potatoes above the Champagne Engineering mill](docs/feature-graphic.png)
 
 ## Google Play
 
-[Get it on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.sleigh&hl=en-US)
+[Get it on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.turkey&hl=en-US)
 
 ## Overview
 
-Sleigh: Chimney Magic is an arcade-inspired Christmas delivery game for Android. Fly Santa's sleigh over a storybook winter village, line up precise gift drops over glowing chimneys, and protect the run from airborne trouble.
+Turkey Trot: Dinner Magic is a Thanksgiving arcade game for Android. Fly a flapping turkey across an autumn village, deliver steaming mashed potatoes to Thanksgiving tables, dodge crows and a monster made of dirty dishes, and keep the run going.
 
 ## Features
 
-- One-button present drops with score-building delivery combos
-- Animated crows and present-thieves to dodge or clear with candy-cane shots
+- Touch controls for flying, firing, and dropping deliveries
+- A directional gobble blast to clear hazards
 - Guardian angels that grant a temporary protective shield
-- Continuous illustrated winter village scenery with the Champagne Engineering mill
-- Arcade-style music and sound effects, with separate on/off controls
-- Local top-ten high scores and continuing runs after a completed route
-- Keyboard, gamepad, and touch controls for desktop and mobile play
+- Autumn scenery, Thanksgiving guests, mashed-potato deliveries, and a quirky dish monster
+- Original arcade-style instrumental music inspired by “America the Beautiful,” plus a turkey gobble sound effect
+- Separate music and sound-effect controls
+- Local top-ten high scores
 - No account, advertisements, analytics, or online leaderboard
 
 ## Screenshots
 
 <p>
-  <img src="docs/screenshots/14.png" alt="Sleigh delivering gifts while a candy-cane shot clears a crow" width="320">
-  <img src="docs/screenshots/8.png" alt="Sleigh approaching chimneys and a present-thief in the winter village" width="320">
-  <img src="docs/screenshots/10.png" alt="Sleigh protected by a guardian angel shield while passing a chimney" width="320">
-  <img src="docs/screenshots/7.png" alt="Sleigh flying through the illuminated midnight winter landscape" width="320">
+  <img src="docs/screenshots/2.png" alt="How to play: deliver mashed potatoes, use a directional gobble blast, and collect guardian angels" width="320">
+  <img src="docs/screenshots/3.png" alt="Turkey flying toward Thanksgiving guests while a dirty-dishes monster approaches" width="320">
+  <img src="docs/screenshots/5.png" alt="Turkey protected by a guardian angel shield above the autumn village" width="320">
+  <img src="docs/screenshots/6.png" alt="Turkey delivering mashed potatoes to Thanksgiving tables while a dish monster flies nearby" width="320">
 </p>
 
 ## Repository Purpose
 
-This public repository is maintained for Sleigh: Chimney Magic documentation, release notes, and issue tracking. It does not contain the application source code.
+This public repository is maintained for Turkey Trot: Dinner Magic documentation, release notes, and issue tracking. It does not contain the application source code.
 
 ## Documentation
 
 Additional documentation is available in the [docs](docs/) directory.
 
 - [Release Notes](docs/release-notes.md)
-- [Product Page](https://champagne.engineering/sleigh)
+- [Product Page](https://champagne.engineering/turkey)
 - [Privacy Policy](https://champagne.engineering/privacy)
 - [Terms of Service](https://champagne.engineering/tos)
 
@@ -58,4 +58,4 @@ Email: support@champagne.engineering
 
 Unauthorized copying, modification, or redistribution is prohibited. Official distributions are available only through Champagne Engineering-authorized channels.
 
-Sleigh: Chimney Magic is a recreational game. Scores, routes, and results have no cash value and confer no prize, reward, or service entitlement.
+Turkey Trot: Dinner Magic is a recreational game. Scores, routes, and results have no cash value and confer no prize, reward, or service entitlement.

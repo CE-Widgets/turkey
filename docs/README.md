@@ -1,10 +1,10 @@
-# Sleigh: Chimney Magic Documentation
+# Turkey Trot: Dinner Magic Documentation
 
-This directory contains public documentation for Sleigh: Chimney Magic.
+This directory contains public documentation and store artwork for Turkey Trot: Dinner Magic.
 
 ## Contents
 
 - [Release Notes](release-notes.md)
 - [Screenshots](screenshots/)
 - [Feature Graphic](feature-graphic.png)
-- [Product Page](https://champagne.engineering/sleigh)
+- [Product Page](https://champagne.engineering/turkey)
